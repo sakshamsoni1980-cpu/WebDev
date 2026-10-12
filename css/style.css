@@ -15,3 +15,17 @@ p {
 div {
     vertical-align: middle;
 }
+.overline-text {
+    text-decoration: overline;
+}
+.line-through-text
+{
+    text-decoration: line-through;
+}
+.underline-text
+{
+    text-decoration: underline;
+}
+.middle-text {
+  vertical-align: middle;
+}
