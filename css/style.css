@@ -1,0 +1,17 @@
+.Heading {
+    text-decoration: underline;
+    text-align: center;
+    line-height: 150%;
+    text-transform: uppercase;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: xx-large;
+    text-decoration-color: red;
+    font-style: italic;
+    font-weight: 100;
+}
+p {
+    line-height: 500%;
+}
+div {
+    vertical-align: middle;
+}
