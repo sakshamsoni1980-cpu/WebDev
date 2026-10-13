@@ -1,4 +1,4 @@
-.Heading {
+/* .Heading {
     text-decoration: underline;
     text-align: center;
     line-height: 150%;
@@ -8,7 +8,7 @@
     text-decoration-color: red;
     font-style: italic;
     font-weight: 100;
-}
+} */
 p {
     line-height: 500%;
 }
@@ -28,4 +28,14 @@ div {
 }
 .middle-text {
   vertical-align: middle;
+}
+h1 {
+    font-family: "Bitcount Ink", system-ui;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  /* font-variation-settings: */
+    text-transform: uppercase;
+      text-align: center;
+    line-height: 150%;
 }
